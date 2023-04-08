@@ -715,7 +715,6 @@ _ads.js.
 ||speednetwork14.com^$third-party
 ||spotxchange.com^$third-party
 ||superfastcdn.com^$third-party
-||tapad.com^$third-party
 ||teads.tv^$third-party
 ||tororango.com^$third-party
 ||tradeadexchange.com^$third-party
@@ -729,7 +728,6 @@ _ads.js.
 ||videoegg.com^$third-party
 ||voluumtrk.com^$third-party
 ||xtendmedia.com^$third-party
-||zemanta.com^$third-party
 ||zerezas.com^$third-party
 
 !----third-party
@@ -2315,7 +2313,6 @@ karapaia.com##.readmore-header
 karapaia.com##[id^="karapaia_"]
 karapaia.com##[class^=ads-label]
 karapaia.com##div[style="padding-top: 10px; height: 600px"]
-kazn-mk-games.com##.st-h-ad
 keisan-mondai.com##.head-ad
 keisanki.me#?#.block > div.container > div.row > article:-abp-has(> div > div > ins.adsbygoogle)
 kenjyaegg.livedoor.blog##.ad_1
@@ -2592,7 +2589,6 @@ news-postseven.com##body[style^="overflow:"]:style(overflow: auto!important)
 news-postseven.com##div[style*="min-height: 250px"]
 news-us.org##.sponsored
 news24.jp###adText01
-news4wide.net##.wipe-ad-div-class
 newsee-media.com##.s-side[style^="position: fixed;"]
 newser.cc##.ad
 newswitch.jp##.banner
@@ -2646,7 +2642,6 @@ okinny.heypo.net##div[style="text-align:center;margin-bottom:50px;"]
 okinny.heypo.net##div[style="width:1050px;margin: 0 auto; overflow:hidden;"]:style(height: 0 !important;)
 okmusic.jp##.banner_frame
 okmusic.jp##.right-ad_frame
-okwave.jp###fluct-pc-sticky-ad
 okwave.jp##.adfunnel_header_block
 okwave.jp##.adfunnel_main_special_box
 okwave.jp##.adfunnel_osusume_box_pc:style(height: auto !important;)
@@ -2748,7 +2743,6 @@ poki.jp##[class^="Advertisement__"]
 popeyemagazine.jp##.ad
 pormo.me##.ads-text
 pouchs.jp##[style^="height:90px;width:728px;"]
-prcm.jp##.ad-rectangle
 projectdesign.jp###base-register
 punyu.com###copyright > p
 punyu.com##.addl
@@ -2846,7 +2840,6 @@ scawaiiweb.com##.add
 scawaiiweb.com##.addHead
 scawaiiweb.com##.addSide
 scawaiiweb.com##.top_ads
-scienceplus2ch.com##.wipe-ad-div-class
 seijiyama.jp###ad-two-center
 seijiyama.jp##.koukoku1
 seijiyama.jp##.koukoku2
@@ -3356,7 +3349,6 @@ weather.biglobe.ne.jp###header:style(height: 60px !important;)
 ||bwbx.io^*/javelin/js/abba/abba-$script,domain=bloomberg.co.jp|bloomberg.com
 ||bbthat.com^$script,$third-party
 ||crwdcntrl.net^$third-party
-||indexww.com^$third-party
 ||youborafds01.com^$third-party
 bloomberg.co.jp##.leaderboard-container
 bloomberg.co.jp##.leaderboard-wrapper
@@ -4143,7 +4135,6 @@ m4ex.com##.kadomaru.move
 ||prosumsit.com^
 ||adform.net^$third-party
 ||adxpub.com^$third-party
-||bidadx.com^$third-party
 ||tapad.com^$third-party
 ||viglink.com^$third-party
 ||vlitag.com^$third-party
@@ -4153,7 +4144,6 @@ m4ex.com##.kadomaru.move
 ||wpadmngr.com^
 ||whcp4.com/apis-7.js
 ||buram.xyz^
-||roataisa.net^
 ||outoctillerytor.com^
 ||wpush.org^
 ||wovazaix.com^
@@ -4593,7 +4583,6 @@ websearch.rakuten.co.jp###ads-billboard
 @@||rmp.rakuten.co.jp/ads/$domain=edy.rakuten.co.jp
 
 ||r10s.jp/com/js/d/ad_liquid_table/
-||rakuten-static.com/1/grp/banner/js/create.js
 ||rmp.rakuten.co.jp/js/aa.js$domain=~edy.rakuten.co.jp
 
 ! viki.com
@@ -4670,7 +4659,6 @@ emu.web-g-p.com##.set_wrapper
 ! --- seesaa.jp --- !
 !seesaa系blog
 !seesaa.net,blog.ss-blog.jp,fanblogs.jp,at.webry.info 他
-/ad_plugin.js
 ||bblog.sso.biglobe.ne.jp/js/insert-ad.js
 ||blog.seesaa.jp/js/insert-ad.min.js
 ||blog.seesaa.jp/js/insert-ad-legacy.min.js
@@ -5102,7 +5090,6 @@ yomidr.yomiuri.co.jp##.thumbnail-ad
 
 amazon.co.jp###nav-swmslot
 amazon.co.jp###sponsoredProducts2_feature_div
-amazon.co.jp###sponsoredProducts2_feature_div
 amazon.co.jp##.AdHolder
 amazon.co.jp##.sbv-video-single-product
 amazon.co.jp##div[cel_widget_id*="_SponsoredProducts"]
@@ -5129,7 +5116,6 @@ amazon.co.jp##div[id^="sp_detail"]
 ||drk7.jp^$third-party
 ||pritre.com^$third-party
 ||ranklet.come.cc^$third-party
-||solty.biz^$third-party
 ||yasui-kamo.com^$third-party
 
 ||2blo.net/ama/widget/
